@@ -6,7 +6,7 @@ import java.lang.System.Logger;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-public class FirstJavaProgram {
+public class PrintStatements{
 /********** Advantages Of Print Statements
  * @throws FileNotFoundException ******************/
 	//Debugging and Error Detection
